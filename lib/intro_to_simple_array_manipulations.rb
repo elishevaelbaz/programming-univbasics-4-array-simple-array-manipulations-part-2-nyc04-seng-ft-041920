@@ -5,3 +5,11 @@ end
 def using_insert(array, element)
   array.insert(element)
 end
+
+def using uniq(array)
+  array.uniq
+end
+
+using_flatten(array)
+  array.flatten
+end
